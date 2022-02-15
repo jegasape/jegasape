@@ -1,14 +1,7 @@
-### 🧑🏻‍💻 Jeffrey Sanchez
+- Vim Lover  ❤️ 
+- I've a interest in [Docker](https://github.com/docker/buildx), [Go](https://github.com/golang/go), [Python](https://github.com/python/)
+- Data 7M+ users with (SQL · Pg · Mongo)
+- AWS, GraphQL, Microservices, Kubernetes, Terraform, Prometheus, Grafana, Git
+- 👨🏻‍💻 DevOps Advocate 🛸 Star Wars · The Expanse
 
-
-- Neovim Lover & Software Engineer
-- Founder and Software Engineer for [autocana](https://Autocana.com/)
-- Handled over 100k users data. (SQLServer/PostgreSQL)
-- TypeScript, Js, Rust, C#, Python, HTML/CSS
-
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jegasape)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegasape/) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/jegasape) [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jegasape) [![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeffsanchez___/) 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jegasape&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
+I initially started my programming journey in college by pitching into `C`. Later on, I successively engaged in `Qt/C++`, `ASP.NET/C#`, `PHP/JS/HTML/CSS`, `Web/Python`, etc. I worked for some transnational corporations where I mostly wrote server-side code in `C#/Python/Go` along with designing backend and full-stack systems.
