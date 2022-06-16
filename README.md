@@ -2,7 +2,6 @@
 
 
 - Neovim Lover & Software Engineer
-- Founder and Software Engineer for [autocana](https://Autocana.com/)
 - Handled over 100k users data. (SQLServer/PostgreSQL)
 - TypeScript, Rust, C#, Python, HTML/CSS
 
