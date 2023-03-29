@@ -1,6 +1,3 @@
-### 🧑🏻‍💻 Jeffrey Sanchez
-
-
 - Neovim Lover & Software Engineer
 - Handled over 100k users data. (SQLServer/PostgreSQL)
 - TypeScript, Rust, C#, Python, HTML/CSS
