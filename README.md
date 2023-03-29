@@ -1,4 +1,4 @@
-- Neovim Lover & Software Engineer
+- Neovim Lover
 - Handled over 100k users data. (SQLServer/PostgreSQL)
 - TypeScript, Rust, C#, Python, HTML/CSS
 
