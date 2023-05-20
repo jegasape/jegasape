@@ -1,14 +1,11 @@
-### 🧑🏻‍💻 Jeffrey Sanchez
+- Vim J4F 🧙
+- DevOps Advocate 👨🏻‍💻 
+- Data 7M+ users (`SQL` · `PostgreSQL` · `MongoDB`)
+- I've a interest in [`Kubernetes`](https://github.com/docker/buildx) [`Docker`](https://github.com/docker/buildx) [`Python`](https://github.com/python/) [`TypeScript`](https://github.com/microsoft/TypeScript)  [`Go`](https://github.com/golang/go) 
+- AWS, GraphQL, Microservices, Terraform, Prometheus, Grafana, Git
+- [`Star Wars`](https://en.wikipedia.org/wiki/Star_Wars) 🛸  [`The Expanse`](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)) 🧑🏻‍🚀 [`Silicon Valley`](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))
 
+I started my career in programming during college by working on `C`. I successively worked on `Qt/C++` `C#` `PHP/JS/HTML/CSS` `Python` etc. I worked with some transnational companies where I contributed mostly through server-side coding in `C#` `Python` `Go` along with backend and full-stack system designing
 
-- Neovim Lover & Software Engineer
-- Founder and Software Engineer for [autocana](https://Autocana.com/)
-- Handled over 100k users data. (SQLServer/PostgreSQL)
-- TypeScript, Js, Rust, C#, Python, HTML/CSS
-
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jegasape)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegasape/) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/jegasape) [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jegasape) [![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeffsanchez___/) 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jegasape&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+**📬** [`30fa7518126b6c081b12afb20ea3eabb@proton.me`](mailto:30fa7518126b6c081b12afb20ea3eabb@proton.me) → [`PublicKey`](https://keys.openpgp.org/vks/v1/by-fingerprint/81FA3D18B52F444A49B2BAFFF5240AD9D469E952) 
 
