@@ -1,5 +1,5 @@
 - Neovim Lover
-- C#, Go, Python, Docker, TypeScript, AWS, HTML/CSS - Learning Rust 🦀
+- C#, Go, Python, Docker, TypeScript, AWS, HTML/CSS, 🦀
 - Handled over 1.5M+ users data (SQLServer/PostgreSQL/MongoDB)
 - REST, GraphQL, Microservices, GitHub Actions, Kubernetes, Terraform, Prometheus, Grafana, Git
 
