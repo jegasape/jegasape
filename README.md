@@ -1,7 +1,6 @@
-- Neovim Lover
-- C#, Go, Python, Docker, TypeScript, AWS, HTML/CSS
-- Handled over 1.5M+ users data (SQLServer/PostgreSQL/MongoDB)
-- REST, GraphQL, Microservices, GitHub Actions, Kubernetes, Terraform, Prometheus, Grafana, Git
+- Vim Lover  ❤️ 
+- Go, Python,  Java, JavaScript, HTML/CSS
+- Data @5.1M+ users (SQLServer/PostgreSQL/MongoDB)
+- AWS, REST, GraphQL, Microservices, Actions, Kubernetes, Terraform, Prometheus, Grafana, Git
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jegasape&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
