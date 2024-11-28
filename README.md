@@ -1,5 +1,5 @@
 - Vim Lover  ❤️ 
-- Go, Python,  Java, JavaScript, HTML/CSS
+- Go, Python, C#, JavaScript, HTML/CSS
 - Data @5.1M+ users (SQLServer/PostgreSQL/MongoDB)
 - AWS, REST, GraphQL, Microservices, Actions, Kubernetes, Terraform, Prometheus, Grafana, Git
 
