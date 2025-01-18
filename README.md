@@ -2,7 +2,6 @@
 - Go, Python, C#, JavaScript, HTML/CSS
 - Data @5.1M+ users (SQLServer/PostgreSQL/MongoDB)
 - AWS, REST, GraphQL, Microservices, Actions, Kubernetes, Terraform, Prometheus, Grafana, Git
-
 - 詳しくはこちらをご覧ください: https://jegasape.com/
 
 
