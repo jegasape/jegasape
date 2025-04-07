@@ -1,6 +1,6 @@
 - Vim Lover  ❤️ 
-- Go, Python, C#, JavaScript, HTML/CSS
-- Data @5.1M+ users (SQLServer/PostgreSQL/MongoDB)
+- Go, Python, JavaScript
+- Data @7M+ users (PostgreSQL/MongoDB)
 - AWS, GraphQL, Microservices, Kubernetes, Terraform, Prometheus, Grafana, Git
 - 詳しくはこちらをご覧ください: https://jegasape.com/
 
